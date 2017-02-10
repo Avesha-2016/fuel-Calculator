@@ -1,0 +1,149 @@
+/*version 1.0.0, by Avesha*/
+
+.h3_av {
+    color: #3d241c;
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.moress {
+    background: #ff0000 none repeat scroll 0 0;
+    border: 1px solid #ff0000;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: #fff;
+    cursor: pointer;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+    padding: 19px 25px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.res_graf_av > p {
+    color: #242525;
+}
+
+
+/*----------------------------------------------------------------------------------*/
+
+.wrap_grafik {
+    background: #fff;
+}
+
+.grafik_av {
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+.perekl_av {
+    background: #f7f2e5;
+    padding: 20px 40px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.active_av {
+    background: #fdbb00;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, .5);
+}
+
+.nas_av {
+    margin-right: 50px;
+    cursor: pointer;
+    color: #242525;
+}
+
+.predpr_av {
+    color: #242525;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.kvm_av {
+    margin-top: 30px;
+    background: #f7f2e5 none repeat scroll 0 0;
+    border: 1px solid #f6f6f6;
+    border-radius: 4px;
+    box-shadow: 0 0 3px inset;
+    height: 50px;
+    padding-left: 20px;
+    width: 68%;
+}
+
+.kvm_av_placehold {
+    color: #242525;
+}
+
+.res_graf_av {
+    display: block;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.elektro_av,
+.gaz_av,
+.pelet_av,
+.shepa_av,
+.drova_av,
+.ugol_av {
+    width: 500px;
+    height: 30px;
+    margin-bottom: 30px;
+}
+
+.el_color,
+.gaz_color,
+.ugol_color,
+.pelet_color,
+.shepa_color,
+.drova_color {
+    color: #fff;
+    float: left;
+    margin-right: 10px;
+    padding: 10px 5px 10px 15px;
+}
+
+.el_color {
+    width: 30%;
+    background: #FFBE00;
+}
+
+.gaz_color {
+    width: 30%;
+    background: #3aacbd;
+}
+
+.ugol_color {
+    width: 30%;
+    background: #5f5f5f;
+}
+
+.pelet_color {
+    width: 30%;
+    background: #764d2f;
+}
+
+.shepa_color {
+    width: 30%;
+    background: #aa6b3f;
+}
+
+.drova_color {
+    width: 30%;
+    background: #763702;
+}
+
+.el_cena_av,
+.gaz_cena_av,
+.pelet_cena_av,
+.drova_cena_av,
+.ugol_cena_av {
+    color: #242525;
+}
